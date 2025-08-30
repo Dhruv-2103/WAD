@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vraj\\source\\repos\\Practical10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CE96EB-D109-469E-8975-16CCDEC3F265}|Practical10\\Practical10.csproj|c:\\users\\vraj\\source\\repos\\practical10\\practical10\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A0CE96EB-D109-469E-8975-16CCDEC3F265}|Practical10\\Practical10.csproj|solutionrelative:practical10\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CE96EB-D109-469E-8975-16CCDEC3F265}|Practical10\\Practical10.csproj|c:\\users\\vraj\\source\\repos\\practical10\\practical10\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A0CE96EB-D109-469E-8975-16CCDEC3F265}|Practical10\\Practical10.csproj|solutionrelative:practical10\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CE96EB-D109-469E-8975-16CCDEC3F265}|Practical10\\Practical10.csproj|c:\\users\\vraj\\source\\repos\\practical10\\practical10\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A0CE96EB-D109-469E-8975-16CCDEC3F265}|Practical10\\Practical10.csproj|solutionrelative:practical10\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CE96EB-D109-469E-8975-16CCDEC3F265}|Practical10\\Practical10.csproj|c:\\users\\vraj\\source\\repos\\practical10\\practical10\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A0CE96EB-D109-469E-8975-16CCDEC3F265}|Practical10\\Practical10.csproj|solutionrelative:practical10\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\Vraj\\source\\repos\\Practical10\\Practical10\\Contact.aspx",
+              "RelativeDocumentMoniker": "Practical10\\Contact.aspx",
+              "ToolTip": "C:\\Users\\Vraj\\source\\repos\\Practical10\\Practical10\\Contact.aspx",
+              "RelativeToolTip": "Practical10\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-11T17:28:36.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "C:\\Users\\Vraj\\source\\repos\\Practical10\\Practical10\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "Practical10\\AboutUs.aspx",
+              "ToolTip": "C:\\Users\\Vraj\\source\\repos\\Practical10\\Practical10\\AboutUs.aspx*",
+              "RelativeToolTip": "Practical10\\AboutUs.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-11T17:27:28.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Vraj\\source\\repos\\Practical10\\Practical10\\Home.aspx",
+              "RelativeDocumentMoniker": "Practical10\\Home.aspx",
+              "ToolTip": "C:\\Users\\Vraj\\source\\repos\\Practical10\\Practical10\\Home.aspx",
+              "RelativeToolTip": "Practical10\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-11T17:24:52.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Vraj\\source\\repos\\Practical10\\Practical10\\Site.Master",
+              "RelativeDocumentMoniker": "Practical10\\Site.Master",
+              "ToolTip": "C:\\Users\\Vraj\\source\\repos\\Practical10\\Practical10\\Site.Master",
+              "RelativeToolTip": "Practical10\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-11T17:16:09.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
